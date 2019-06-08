@@ -6,11 +6,6 @@
   src : url('../font/NotoSerifCJKtc-Regular.otf');
 }
 
-@font-face {
-  font-family: 'Noto Serif TC', serif;
-  src: url('https://fonts.googleapis.com/css?family=Noto+Serif+TC&subset=chinese-traditional,japanese');
-}
-
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
